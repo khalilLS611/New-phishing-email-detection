@@ -20,8 +20,7 @@
 
 -Yuuki Moody
 
--Joshua Joyce
-
 -Hamid Hassan
 
 ## Updates and Progress
+
