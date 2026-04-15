@@ -29,3 +29,14 @@ Thumbs.db
 # IDE settings
 .vscode/
 .idea/
+
+# Ignore datasets
+Raw-date/*.csv
+Processed-Data/*.csv
+
+# Ignore large combined datasets
+*.csv
+
+# Keep folder structure
+!Raw-Data/gitkeep
+!Processed-Data/.gitkeep
