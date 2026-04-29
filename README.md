@@ -9,8 +9,6 @@
 
 -'README.md' - Project Documentation
 
-## Objectives
-
 ## Tools and Technologies
 Environment:
 
