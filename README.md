@@ -27,7 +27,7 @@ Due to GitHubs file size limitations, the datasets are not included in this repo
 Please download the following datasets and place them in the appropriate directories:
 
     Dataset| Source | Destination Folder | 
-CEAS 200| https://www.kaggle.com/ |  Raw-Data/ |
-Enron Spam| https://www.kaggle.com/ |  Raw-Data/ |
+\n CEAS 200| https://www.kaggle.com/ |  Raw-Data/ |
+\n Enron Spam| https://www.kaggle.com/ |  Raw-Data/ |
 Ling Spam| https://www.kaggle.com/ |  Raw-Data/ |
 Nigerian Fraud Emails| https://www.kaggle.com/ |  Raw-Data/ |
