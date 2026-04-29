@@ -12,7 +12,17 @@
 ## Objectives
 
 ## Tools and Technologies
+Environment:
+Jupyter Notebook
+Python
+anaconda
+GitHub -> For collaboration with team members
 
+libraries used: 
+Pandas -> for handling the datasets
+Scikit-learn -> for SVM, KNN, TF-IDF metrics
+TensorFlow/Keras -> for the cnn model
+matplotlib -> for data visualization
 ## Team Members
 -Khalil Simmons
 
@@ -27,7 +37,7 @@ Due to GitHubs file size limitations, the datasets are not included in this repo
 Please download the following datasets and place them in the appropriate directories:
 
     Dataset| Source | Destination Folder | 
-\n CEAS 200| https://www.kaggle.com/ |  Raw-Data/ |
-\n Enron Spam| https://www.kaggle.com/ |  Raw-Data/ |
+CEAS 200| https://www.kaggle.com/ |  Raw-Data/ |
+Enron Spam| https://www.kaggle.com/ |  Raw-Data/ |
 Ling Spam| https://www.kaggle.com/ |  Raw-Data/ |
 Nigerian Fraud Emails| https://www.kaggle.com/ |  Raw-Data/ |
